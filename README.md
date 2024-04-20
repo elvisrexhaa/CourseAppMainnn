@@ -1,6 +1,5 @@
 
-                                                                                                                                                        
-                                                                                **WELCOME TO EDUKEY!!!**
+ **WELCOME TO EDUKEY!!!**
 
 Follow the following steps to get started with eduKey.
 
