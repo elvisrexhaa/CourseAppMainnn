@@ -27,3 +27,5 @@ Reasoning behind algorithmic solution:
 2) Improve application performance -> smoother user experience with reduced loading times due to accessing data from local storage is faster than
    fetching it from a remote server.
 3) Reduced server load -> fewer requests are being made to fetch the same data repeatedly and thus scaling the server infrastructure more efficiently.
+
+Additionally, if there were 100s of courses I would go about using lazy stacks & peforming api requests through async/await method to improve users expereince with the UI. This ensures any method performed with async/await is executed in the background thread.
