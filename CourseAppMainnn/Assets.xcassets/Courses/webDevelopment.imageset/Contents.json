@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "618fa90c201104b94458e1fb_631ecfd981f6071312295177_React_Best_Practices_for_Scalable_Web_Application_Development_OG_image_6dd5c69366.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
